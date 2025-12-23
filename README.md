@@ -1,4 +1,4 @@
-# Stop Paying! Front End Roadmap — 100% Free Resources
+# Front End Roadmap with Free Courses
 
 ![Frontend Developer](https://img.shields.io/badge/Role-Frontend_Developer-blue)
 ![Cost](https://img.shields.io/badge/Cost-%240.00-green)
@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Credits](https://img.shields.io/badge/Credits-CodersNote.com-blue?style=flat-square)](https://codersnote.com)
 
-> **The ultimate Front End Roadmap 2026.** You don't need a $1000 bootcamp to become a developer. This repository collects the best **100% FREE** resources, video tutorials, and documentation to take you from "Hello World" to "Hired."
+> **The ultimate Front End Roadmap 2026.**  This repository collects the best **100% FREE** resources, video tutorials, and documentation to take you from "Hello World" to "Hired."
 
 ---
 
